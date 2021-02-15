@@ -19,7 +19,7 @@
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="no_url_selected">Please select the file to download</string>
-    <string name="file_name_text">File name:</string>
+    <string name="file_name_label">File name:</string>
     <string name="status_label">Status:</string>
     <string name="status_success">Success</string>
     <string name="status_failed">Failed</string>
